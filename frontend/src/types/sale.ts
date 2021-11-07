@@ -1,4 +1,3 @@
-import nextMonday from "date-fns/nextMonday"
 import { Seller } from "./seller"
 
 export type Sale = {
